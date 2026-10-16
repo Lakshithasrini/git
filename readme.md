@@ -1,4 +1,4 @@
 # Git course
 This is a complete git course
 
-# This is a change from feature branch
+# This is a change from feature
